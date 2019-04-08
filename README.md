@@ -1,4 +1,5 @@
-<i>Kernel Density</i>
+<b><h1><i>Kernel Density</i><h1></b>
+<br>
 <b> The file Kernel_Density_2D.py is used to generate the following results</b>
 1. The 1D Random Gaussian data is generated using Sigma1 * np.random.randn(500) + mean1
 2. The capital ​ X ​ is assumed as a discrete value from the min of x to the max of x with a step count of
